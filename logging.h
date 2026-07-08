@@ -9,6 +9,7 @@ class Logging {
 public:
     static void init();
     static void log(const std::string& message, const std::string& level);
+// minor polish
 // was easier to read this way
 };
 
