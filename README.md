@@ -18,3 +18,5 @@ To build and install the Image Compression Tool, follow these steps:
 To compress an image, run the following command:
 
 <!-- tiny readability tweak -->
+
+<!-- minor polish -->
