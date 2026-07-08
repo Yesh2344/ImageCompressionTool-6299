@@ -8,3 +8,4 @@ enable_testing()
 add_executable(test_image_compression_tool test_image_compression_tool.cpp)
 target_link_libraries(test_image_compression_tool image_compression_tool)
 add_test(NAME test_image_compression_tool COMMAND test_image_compression_tool)
+
