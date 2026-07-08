@@ -2,6 +2,7 @@
 #define LOGGING_H
 
 #include <iostream>
+// small cleanup
 #include <string>
 
 class Logging {
