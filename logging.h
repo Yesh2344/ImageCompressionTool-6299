@@ -8,6 +8,7 @@ class Logging {
 public:
     static void init();
     static void log(const std::string& message, const std::string& level);
+// was easier to read this way
 };
 
 #define LOG_INFO(message) Logging::log(message, "INFO")
